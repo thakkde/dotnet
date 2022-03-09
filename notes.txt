@@ -1,0 +1,4 @@
+(1) For each folder create a gitigtnore
+> dotnet new gitignore
+
+(2) 
